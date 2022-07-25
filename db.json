@@ -13,12 +13,6 @@
       "isInCart": false
     },
     {
-      "id": 3,
-      "name": "Lettuce",
-      "category": "Produce",
-      "isInCart": false
-    },
-    {
       "id": 4,
       "name": "String Cheese",
       "category": "Dairy",
@@ -35,6 +29,42 @@
       "name": "Cookies",
       "category": "Dessert",
       "isInCart": false
+    },
+    {
+      "name": "Army Biscuits",
+      "category": "Dessert",
+      "isInCart": false,
+      "id": 14
+    },
+    {
+      "name": "Army Biscuits",
+      "category": "Dessert",
+      "isInCart": false,
+      "id": 19
+    },
+    {
+      "name": "Army Biscuits",
+      "category": "Dessert",
+      "isInCart": false,
+      "id": 27
+    },
+    {
+      "name": "Army Biscuits",
+      "category": "Dessert",
+      "isInCart": false,
+      "id": 28
+    },
+    {
+      "name": "Army Biscuits",
+      "category": "Dessert",
+      "isInCart": false,
+      "id": 29
+    },
+    {
+      "name": "Banana Passionfruit",
+      "category": "Produce",
+      "isInCart": false,
+      "id": 31
     }
   ]
 }
